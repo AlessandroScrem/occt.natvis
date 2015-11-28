@@ -10,6 +10,11 @@ AutoExpand and Visualizer.
 
 The autoexp.dat or occt.natvis can be added to provide more convenient display of some OCCT data types.
 
+## Usage
+1. Download the autoexp.occt and change its name to autoexp.dat, then put it in the folder:%VSINSTALLDIR%\Common7\Packages\Debugger
+
+2. Download the occt.natvis and put it in the %VSINSTALLDIR%\Common7\Packages\Debugger\Visualizers
+
 ## References
 1. autoexp.dat in %VSINSTALLDIR%\Common7\Packages\Debugger
 2. Create custom views of native objects in the debugger. 
